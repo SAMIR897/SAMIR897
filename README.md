@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=600&size=30&pause=1000&color=FF0055&center=true&vCenter=true&width=750&lines=EXPLOITING+THE+UNEXPLOITABLE;SECURING+THE+MULTICHAIN;GLOBAL+TOP+1%+TRYHACKME;ACKEE+SOLANA+ALUM" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=600&size=30&pause=1000&color=FF0055&center=true&vCenter=true&width=750&lines=CREATOR+OF+RIA+(RE-WIRED+ARCH);EXPLOITING+THE+UNEXPLOITABLE;GLOBAL+TOP+1%+TRYHACKME;ACKEE+SOLANA+ALUM" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -14,16 +14,31 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
-  <!-- Optional: Replace with a Cyberpunk/Anime gif of your choice -->
 </div>
 
 <br />
 
 <div align="center">
   <p>
-    <b>// DECODING THE MATRIX...</b> <br />
-    I am a <b>Security Researcher</b> graduating in 2025. I don't just write code; I hunt for the flaws that others miss. 
-    From the depths of the <b>Solana Program Model</b> to the intricacies of <b>EVM Storage</b>, I build the shields that protect the future of finance.
+    <b>// SYSTEM INITIALIZED...</b> <br />
+    I am a <b>Security Researcher</b> & <b>Systems Architect</b> graduating in 2025. 
+    I build the Operating Systems that hackers use and the Smart Contracts that hackers fear. 
+    From <b>Kernel-level security</b> in Arch to <b>Instruction-level security</b> on Solana.
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>「 𝖫𝖤𝖦𝖤𝖭𝖣𝖠𝖱𝖸 𝖠𝖱𝖲𝖤𝖭𝖠𝖫 」</h3>
+  <p>
+    🌐 <b>RIA (Re-wIred Arch):</b> My custom-engineered Linux Distribution. <br />
+    <i>"The bridge between Web2 Pentesting and Web3 Auditing."</i>
+  </p>
+  <p>
+    • <b>Full Pentesting Suite:</b> Integrated Kali-tier tools for Network & System exploitation. <br />
+    • <b>Web3 Specialized:</b> Pre-configured environments for <b>Solidity, Rust, & Anchor</b> with built-in auditing frameworks. <br />
+    • <b>Arch-Based:</b> Optimized for performance, low latency, and absolute control.
   </p>
 </div>
 
@@ -32,9 +47,9 @@
 <div align="center">
   <h3>「 𝖳𝖧𝖤 𝖳𝖮𝖮𝖫𝖪𝖨𝖳 」</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,linux,bash,docker,git,nextjs,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,rust,solidity,py,ts,c,cpp,linux,bash,docker,git,nodejs&theme=dark" />
   </a>
-  <p><i>Mastering: Slither | Mythril | Foundry | Anchor Security</i></p>
+  <p><i>Mastering: Slither | Mythril | Foundry | Anchor Security | OS Kernel Modding</i></p>
 </div>
 
 <br />
@@ -42,7 +57,7 @@
 <div align="center">
   <h3>「 𝖬𝖨𝖲𝖲𝖨𝖮𝖭 𝖱𝖤𝖯𝖮𝖱𝖳𝖲 」</h3>
   <p>
-    🔴 <b>W3RS Security Playground:</b> High-stakes vulnerability lab. <br />
+    🔴 <b>W3RS Security Playground:</b> High-stakes vulnerability laboratory. <br />
     🟣 <b>Ackee Solana CTF:</b> Independent 100% completion (PDA/CPI Specialist). <br />
     🟢 <b>TryHackMe:</b> Global Top 1% (Threat Modeling & Exploitation).
   </p>
