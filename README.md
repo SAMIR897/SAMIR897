@@ -1,79 +1,84 @@
 <div align="center">
-  <!-- Stylized Anime Title -->
-  <h1>丂卂爪丨尺 <br>  Ҝㄩ爪卂尺</h1>
-  <h3> ⚔️ 𝖲𝗆𝖺𝗋𝗍 𝖢𝗈𝗇𝗍𝗋𝖺𝖼𝗍 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒 𝖲𝗁𝗂𝗇𝗈𝖻𝗂 ⚔️ </h3>
+  <!-- HEADER BANNER: High-speed Matrix Code -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Matrix.gif" width="100%" height="160px" style="object-fit: cover;">
 
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=600&size=30&pause=1000&color=FF0055&center=true&vCenter=true&width=750&lines=EXPLOITING+THE+UNEXPLOITABLE;SECURING+THE+MULTICHAIN;GLOBAL+TOP+1%+TRYHACKME;ACKEE+SOLANA+ALUM" alt="Typing SVG" />
-    </a>
-  </p>
+  <br />
+
+  <!-- ASCII NAME: Using a specialized "Hacker Console" look -->
+  <pre>
+  <font color="#00FF41">
+ █▀▄▀█ █▀▀█ ▀▀█▀▀ █▀▀█ ░▀░ █░░█   █▀▀█ █▀▀█ █▀▀▄ █▀▀ █▀▀█ 
+ █░▀░█ █▄▄█ ░░█░░ █▄▄▀ ▀█▀ █▄▄█   █░░█ █▄▄▀ █░░█ █▀▀ █▄▄▀ 
+ ▀░░░▀ ▀░░▀ ░░▀░░ ▀░▀▀ ▀▀▀ ▄▄▄█   ▀▀▀▀ ▀░▀▀ ▀▀▀░ ▀▀▀ ▀░▀▀
+  </font>
+  </pre>
+  
+  <code><b>[ JUNIOR SECURITY RESEARCHER // RIA LINUX ARCHITECT // 2025 GRAD ]</b></code>
+
+  <br />
+
+  <!-- ANIME/HACKER STYLE TYPING SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=ACCESSING+RE-WIRED+ARCH+ENVIRONMENT...;SEARCHING+FOR+SOLANA+VULNERABILITIES;ACKEE+BLOCKCHAIN+SOLANA+ALUM;DECRYPTING+EVM+STORAGE+LAYOUTS" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
-  <!-- Optional: Replace with a Cyberpunk/Anime gif of your choice -->
-</div>
+<!-- NEON DIVIDER GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-neon.gif" width="100%">
+</p>
+
+<br />
+
+### <code>$ whoami</code>
+> I am a **2025 CSE graduate** bridging the gap between Web3 development and offensive security. I build secure programs on **Solana** and research exploit vectors in the **EVM**.
+
+### <code>$ ls -la infrastructure/</code>
+*   📂 **RIA (Re-wIred Arch):** Custom Linux Distribution optimized for Web3 pentesting & auditing.
+*   📂 **W3RS Security Lab:** Educational repository for Ethernaut & Ackee CTF reproduction.
+*   📂 **PDA Governance:** Secure on-chain voting protocol built with Rust/Anchor.
 
 <br />
 
 <div align="center">
-  <p>
-    <b>// DECODING THE MATRIX...</b> <br />
-    I am a <b>Security Researcher</b> graduating in 2025. I don't just write code; I hunt for the flaws that others miss. 
-    From the depths of the <b>Solana Program Model</b> to the intricacies of <b>EVM Storage</b>, I build the shields that protect the future of finance.
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>「 𝖳𝖧𝖤 𝖳𝖮𝖮𝖫𝖪𝖨𝖳 」</h3>
+  <h3><code>[ SYSTEM_RESOURCES ]</code></h3>
+  <!-- SKILL ICONS: DARK THEME -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,linux,bash,docker,git,nextjs,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,rust,solidity,py,ts,c,cpp,linux,bash,docker,git,nodejs&theme=dark" />
   </a>
-  <p><i>Mastering: Slither | Mythril | Foundry | Anchor Security</i></p>
 </div>
 
 <br />
 
 <div align="center">
-  <h3>「 𝖬𝖨𝖲𝖲𝖨𝖮𝖭 𝖱𝖤𝖯𝖮𝖱𝖳𝖲 」</h3>
-  <p>
-    🔴 <b>W3RS Security Playground:</b> High-stakes vulnerability lab. <br />
-    🟣 <b>Ackee Solana CTF:</b> Independent 100% completion (PDA/CPI Specialist). <br />
-    🟢 <b>TryHackMe:</b> Global Top 1% (Threat Modeling & Exploitation).
-  </p>
+  <h3><code>[ SECURITY_CLEARANCE ]</code></h3>
+  <!-- CUSTOM MATRIX THEMED BADGES -->
+  <img src="https://img.shields.io/badge/TRYHACKME-TOP_1%25-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SOLANA-ACKEE_ALUM-000000?style=for-the-badge&logo=solana&logoColor=00FF41" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- GITHUB STATS: MATRIX THEME -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
-    <img src="https://img.shields.io/badge/-LINKEDIN-FF0055?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Your_Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-TWITTER-00CCFF?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:samir02nagwan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-EMAIL-4AF626?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Samir's Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIR897&theme=tokyonight&hide_border=true" alt="Samir's Streak" />
-</div>
-
-<br />
-
+<!-- FOOTER BANNER: Matrix Data Stream -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Matrix.gif" width="100%" height="60px" style="object-fit: cover;">
+  <code>[ SESSION_TERMINATED // CONNECTION_SECURE ]</code>
 </p>
