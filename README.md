@@ -1,96 +1,62 @@
-<!-- SECTION 1: THE UNIVERSAL TRUTH (FIXED HEADER) -->
 <div align="center">
-  <!-- THE SHINOBI ENTRANCE GIF -->
-  <img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-neon.gif" width="100%">
-  <br />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;">
-  
-  <h1>丂卂爪丨尺 Ҝㄩ爪卂尺</h1>
-  <h3>Junior Security Researcher | Web3 Infrastructure Specialist</h3>
+  <h1>SAMIR KUMAR</h1>
+  <h3>Smart Contract Security Researcher | Blockchain Auditor</h3>
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Securing+the+Decentralized+Future;Ackee+Solana+Bootcamp+Graduate;Global+Top+1%+TryHackMe;Creator+of+RIA+Linux+Distro" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=750&lines=Securing+High-Stakes+Protocols;Ranked+Global+Top+1%+on+TryHackMe;Solana+%26+EVM+Vulnerability+Researcher;Auditing+Rust%2C+Anchor+%26+Solidity" alt="Typing SVG" />
     </a>
   </p>
 </div>
 
 <br />
 
-<!-- SECTION 2: THE INTEL FEED (DYNAMIC MIDDLE - EDITABLE) -->
 <div align="center">
   <p>
-    I engineer <b>secure, deterministic state management systems</b> on Solana and research <b>exploit vectors</b> in the EVM.
+    I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and securing decentralized infrastructure.
   </p>
   <p>
-    I am a 2025 Graduate focusing on protocol-level auditing and <b>Offensive Security</b>.
+    As an <b>Ackee Blockchain Solana Alum</b> and a <b>Global Top 1% TryHackMe Researcher</b>, I bridge the gap between protocol development and offensive security. I specialize in triaging complex state-machine vulnerabilities on Solana and mastering EVM exploit vectors.
   </p>
-  <code><b>COMMS:</b> [+91 8900570931] | <b>MISSION:</b> [L1/L2 Security Research]</code>
 </div>
 
 <br />
 
-<!-- THE PROJECT STRIPS (MVP STYLE) -->
 <div align="center">
-  <h3>「 𝗠𝗩𝗣 𝗠𝗜𝗦𝗦𝗜𝗢𝗡𝗦 」</h3>
-  
-  <!-- STRIP 1: RIA LINUX -->
-  <a href="YOUR_PROJECT_LINK_1">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA-LINUX-REPO&mode=dark&style=horizontal" alt="RIA Linux Strip">
-  </a>
-  <br />
-  
-  <!-- STRIP 2: W3RS PLAYGROUND -->
-  <a href="YOUR_PROJECT_LINK_2">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-PLAYGROUND-REPO&mode=dark&style=horizontal" alt="W3RS Strip">
-  </a>
-  <br />
-  
-  <!-- STRIP 3: SOLANA GOVERNANCE -->
-  <a href="YOUR_PROJECT_LINK_3">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/SOLANA-PDA-REPO&mode=dark&style=horizontal" alt="Solana Strip">
-  </a>
-</div>
-
-<br />
-
-<!-- SECTION 3: THE ARSENAL -->
-<div align="center">
-  <h3>「 𝗖𝗢𝗥𝗘 𝗔𝗥𝗦𝗘𝗡𝗔𝗟 」</h3>
+  <h3>The Auditor's Toolkit</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,arch,linux,bash,docker,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,docker,linux,git,bash,nextjs,nodejs" />
   </a>
-  <p><i>Mastering: Slither | Mythril | Foundry | Anchor Security</i></p>
+  <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
 
 <br />
 
-<!-- SECTION 4: STATS LOG -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=matrix&hide_border=true" />
+  <h3>Proof of Work</h3>
+  <p>
+    🛡️ <b>Web3 Security Playground (W3RS):</b> My open-source lab for reproducing Ethernaut & Ackee CTF vulnerabilities. <br />
+    🚀 <b>Ackee Solana CTF:</b> 100% completion of independent security challenges (PDA sharing, Signer validation). <br />
+    📈 <b>TryHackMe:</b> Internationally ranked Top 1% (Vulnerability Research & Threat Modeling).
+  </p>
 </div>
 
 <br />
 
-<!-- SECTION 5: THE SYSTEM SHUTDOWN (FIXED FOOTER) -->
 <div align="center">
-  <h3>「 𝗘𝗡𝗖𝗥𝗬𝗣𝗧𝗘𝗗 𝗖𝗢𝗠𝗠𝗦 」</h3>
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Your_Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/Your_Twitter_Handle" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:samir02nagwan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
-  <br /><br />
-  
-  <!-- THE NINJA/SHINOBI FINAL IMAGE -->
-  <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" width="200" alt="Ninja Scifi Image">
-  <br />
-  <code>[ SYSTEM SECURED // END OF LOG ]</code>
-  <br />
-  <img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-neon.gif" width="100%">
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Samir's GitHub Stats" />
 </div>
