@@ -18,7 +18,6 @@
   </p>
 </div>
 
-
 <div align="center">
   <h3>Languages and Toolkit</h3>
   <a href="https://skillicons.dev">
@@ -41,7 +40,6 @@
   </p>
 </div>
 
-<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
