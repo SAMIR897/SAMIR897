@@ -1,8 +1,5 @@
 <div align="center">
-  <!-- MATRIX BACKGROUND HEADER -->
-  <img src="./e4316a93890387.5e70ade47b737.gif" width="100%" height="150px" style="object-fit: cover; opacity: 0.5;">
 
-  <br />
 
   <h1>SAMIR KUMAR</h1>
   <h3>Smart Contract Security Researcher | Blockchain Auditor</h3>
@@ -57,12 +54,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true" alt="Samir's GitHub Stats" />
-</div>
 
 <div align="center">
   <br />
-  <!-- MATRIX BACKGROUND FOOTER -->
-  <img src="./e4316a93890387.5e70ade47b737.gif" width="100%" height="50px" style="object-fit: cover; opacity: 0.5;">
 </div>
