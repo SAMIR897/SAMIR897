@@ -2,7 +2,7 @@
 
 
   <h1>SAMIR KUMAR</h1>
-  <h3>Smart Contract Security Researcher | Blockchain Auditor</h3>
+  <h3>Smart Contract Security Researcher | Blockchain Developer</h3>
 
   <p>
     <a href="https://git.io/typing-svg">
