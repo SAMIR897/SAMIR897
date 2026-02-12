@@ -16,7 +16,7 @@
     I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and securing decentralized infrastructure.
   </p>
   <p>
-    As an <b>Ackee Blockchain Solana Alum</b> , <b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet seamless <b>SmartContracts</b> as well as <b>Full-Stack DAAp</b>as well as auditing state-machine vulnerabilities on Solana and EVM exploit vectors on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification) standards.
+    As an <b>Ackee Blockchain Solana Alum</b> , <b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet seamless <b>SmartContracts</b> as well as <b>Full-Stack DAAp</b>as well as auditing vulnerabilities on Solana and EVM exploit vectors on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification) standards.
   </p>
 </div>
 
