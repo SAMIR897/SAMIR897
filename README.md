@@ -18,7 +18,6 @@
   </p>
 </div>
 
-<br/>
 
 <div align="center">
   <h3>Languages and Toolkit</h3>
@@ -32,7 +31,6 @@
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
 
-<br/>
 
 <div align="center">
   <h3>Proof of Work</h3>
