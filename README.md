@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=750&lines=Securing+High-Stakes+Protocols;Ranked+Global+Top+1%+on+TryHackMe;Solana+%26+EVM+Vulnerability+Researcher;Auditing+Rust%2C+Anchor+%26+Solidity" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=750&lines=Securing+High-Stakes+Protocols;Ranked+Global+Top+1%+on+TryHackMe;Solana+%26+EVM+Vulnerability+Researcher;Auditing+Rust%2C+Anchor+%26+Solidity;Developing+Rust%2C+Anchor+%26+Solidity" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -23,7 +23,7 @@
 <div align="center">
   <h3>The Auditor's Toolkit</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,docker,linux,git,bash,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,docker,linux,git,bash,nextjs,nodejs,arch" />
   </a>
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
