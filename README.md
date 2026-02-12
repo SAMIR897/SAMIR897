@@ -1,10 +1,16 @@
 <div align="center">
+  <!-- MATRIX BACKGROUND HEADER -->
+  <img src="./e4316a93890387.5e70ade47b737.gif" width="100%" height="150px" style="object-fit: cover; opacity: 0.5;">
+
+  <br />
+
   <h1>SAMIR KUMAR</h1>
   <h3>Smart Contract Security Researcher | Blockchain Auditor</h3>
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=750&lines=Securing+High-Stakes+Protocols;Ranked+Global+Top+1%+on+TryHackMe;Solana+%26+EVM+Vulnerability+Researcher;Auditing+Rust%2C+Anchor+%26+Solidity+SmartContracts" alt="Typing SVG" />
+      <!-- Fixed 'A' visibility by increasing width to 900 -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=900&lines=Securing+High-Stakes+Protocols;Ranked+Global+Top+1%+on+TryHackMe;Solana+%26+EVM+Vulnerability+Researcher;Auditing+Rust%2C+Anchor+%26+Solidity+SmartContracts" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -47,4 +53,16 @@
   <a href="mailto:samir02nagwan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true" alt="Samir's GitHub Stats" />
+</div>
+
+<div align="center">
+  <br />
+  <!-- MATRIX BACKGROUND FOOTER -->
+  <img src="./e4316a93890387.5e70ade47b737.gif" width="100%" height="50px" style="object-fit: cover; opacity: 0.5;">
 </div>
