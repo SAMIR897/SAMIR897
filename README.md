@@ -9,8 +9,6 @@
   </p>
 </div>
 
-<br />
-
 <div align="center">
   <p>
     I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and securing decentralized infrastructure.
