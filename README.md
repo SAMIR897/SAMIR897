@@ -21,11 +21,7 @@
 <div align="center">
   <h3>Languages and Toolkit</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,docker,linux,git,bash,nextjs,nodejs" />
-  </a>
-   <h3>Operating system</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,ubuntu,kali,mac,windows" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,git,github,docker,linux,arch,ubuntu,kali,windows" />
   </a>
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
