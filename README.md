@@ -21,9 +21,12 @@
 <br/>
 
 <div align="center">
-  <h3>The Auditor's Toolkit</h3>
+  <h3>The Languages and Toolkit</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,c,cpp,docker,linux,git,bash,nextjs,nodejs,arch,ubuntu,kali" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,ubuntu,kali,burpsuite,mythril" />
   </a>
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
