@@ -20,7 +20,7 @@
   </p>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <h3>The Auditor's Toolkit</h3>
@@ -30,7 +30,7 @@
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <h3>Proof of Work</h3>
@@ -41,7 +41,7 @@
   </p>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
@@ -54,9 +54,3 @@
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Samir's GitHub Stats" />
-</div> this one is my readme and i need you to just add stuffs i mentioned
