@@ -27,7 +27,7 @@
   </a>
    <h3>Operating system</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=arch,ubuntu,kali,mac,windows" />
   </a>
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
