@@ -22,7 +22,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,linux,arch,ubuntu,kali,windows" />
   </a>
-  <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
+  <p><i>Specializing in</i></p>
+  <p>
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40" style="margin: 5px;"/>
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40" style="margin: 5px;"/>
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40" style="margin: 5px;"/>
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40" style="margin: 5px;"/>
+  </p>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
