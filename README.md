@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=dark&style=horizontal" alt="W3RS Part 1"/>
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=light&style=horizontal" alt="W3RS Part 1"/>
   </a>
 </p>
 
