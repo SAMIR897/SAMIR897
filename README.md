@@ -28,41 +28,46 @@
   <h3>MVP Projects</h3>
 </div>
 
-<p align="center">
-  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=light&style=horizontal" alt="W3RS Part 1"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2&mode=dark&style=horizontal" alt="W3RS Part 2"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=dark&style=horizontal" alt="W3RS Part 3"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=horizontal" alt="W3RS Part 4"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SAMIR897/RIA_R3-w1red-4rch">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal" alt="RIA R3-w1red-4rch"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SAMIR897/My-linux-tool">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tool&mode=dark&style=horizontal" alt="Linux Tool"/>
-  </a>
-</p>
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1">
+          <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=dark&style=horizontal" alt="W3RS Part 1"/>
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2">
+          <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2&mode=light&style=horizontal" alt="W3RS Part 2"/>
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3">
+          <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=light&style=horizontal" alt="W3RS Part 3"/>
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4">
+          <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=horizontal" alt="W3RS Part 4"/>
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/SAMIR897/RIA_R3-w1red-4rch">
+          <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal" alt="RIA R3-w1red-4rch"/>
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/SAMIR897/My-linux-tool">
+          <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tool&mode=light&style=horizontal" alt="Linux Tool"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
