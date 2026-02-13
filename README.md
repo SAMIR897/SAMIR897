@@ -8,6 +8,9 @@
     </a>
   </p>
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 <div align="center">
   <p>
     I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and securing decentralized infrastructure.
@@ -16,6 +19,9 @@
     As an <b>Ackee Blockchain Solana Alum</b> , <b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet seamless <b>SmartContracts</b> as well as <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
   </p>
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 <div align="center">
   <h3>Languages and Toolkit</h3>
   <a href="https://skillicons.dev">
@@ -23,6 +29,10 @@
   </a>
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <div align="center">
   <h3>MVP Projects</h3>
@@ -70,6 +80,8 @@
   <i>My-linux-tool</i>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 <div align="center">
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -81,7 +93,23 @@
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-<br />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 <div align="center">
-  <br />
+  <h3>📊 GitHub Statistics</h3>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIR897&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIR897&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMIR897&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="48%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<br />
