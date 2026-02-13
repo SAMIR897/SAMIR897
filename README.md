@@ -28,28 +28,41 @@
   <h3>MVP Projects</h3>
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=dark&style=horizontal" alt="W3RS Part 1"/>
+  </a>
+</p>
 
-[![W3RS Part 1](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1)
+<p align="center">
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2&mode=dark&style=horizontal" alt="W3RS Part 2"/>
+  </a>
+</p>
 
-[![W3RS Part 2](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2)
+<p align="center">
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=dark&style=horizontal" alt="W3RS Part 3"/>
+  </a>
+</p>
 
-[![W3RS Part 3](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3)
+<p align="center">
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=horizontal" alt="W3RS Part 4"/>
+  </a>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/SAMIR897/RIA_R3-w1red-4rch">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal" alt="RIA R3-w1red-4rch"/>
+  </a>
+</p>
 
-[![W3RS Part 4](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4)
-
-[![RIA R3-w1red-4rch](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal)](https://github.com/SAMIR897/RIA_R3-w1red-4rch)
-
-[![Linux Tool](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tool&mode=dark&style=horizontal)](https://github.com/SAMIR897/My-linux-tool)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/SAMIR897/My-linux-tool">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tool&mode=dark&style=horizontal" alt="Linux Tool"/>
+  </a>
+</p>
 
 <div align="center">
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
