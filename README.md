@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>SAMIR KUMAR</h1>
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=2000&pause=5000&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=SAMIR+KUMAR" alt="SAMIR KUMAR" /></h1>
   <h3>Smart Contract Security Researcher | Blockchain Developer</h3>
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Securing+High-Stakes+Protocols+%F0%9F%94%90;%F0%9F%90%9E+Bug+Bounty+Hunter+%7C+Web3+Security+%F0%9F%8E%AF;%E2%9A%A1+Solana+%26+EVM+Vulnerability+Researcher+%E2%9A%A1;%F0%9F%94%A5+Smart+Contract+Auditor+%F0%9F%94%A5;%F0%9F%A6%80+Rust+%7C+Anchor+%7C+Solidity+Expert+%F0%9F%92%BB" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=900&lines=Securing+High-Stakes+Protocols;BUG+Bounty+Hunter;Solana+%26+EVM+Vulnerability+Researcher;Smart+Contract+Developer;Auditing+Rust%2C+Anchor+%26+Solidity+SmartContracts" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -72,19 +72,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <i>My-linux-tool</i>
 </p>
-
-<div align="center">
-  <h3>📊 GitHub Statistics</h3>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIR897&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIR897&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMIR897&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="48%"/>
-</div>
 
 <br />
