@@ -101,12 +101,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIR897&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIR897&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIR897&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIR897&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMIR897&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="48%"/>
 </div>
 
