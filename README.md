@@ -50,7 +50,6 @@
 
 <div align="center">
   <h3>MVP Projects</h3>
-__________________________
 </div>
 
 <p align="center">
