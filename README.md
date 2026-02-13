@@ -23,11 +23,23 @@
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,linux,arch,ubuntu,kali,windows" />
   </a>
   <p><i>Specializing in</i></p>
-  <p>
-    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40" style="margin: 5px;"/>
-    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40" style="margin: 5px;"/>
-    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40" style="margin: 5px;"/>
-    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40" style="margin: 5px;"/>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/>
+  </p>
+  <p align="center">
+    <sub><b>Slither</b></sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <sub><b>Mythril</b></sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <sub><b>Foundry Invariants</b></sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <sub><b>Anchor Security</b></sub>
   </p>
 </div>
 
