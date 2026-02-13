@@ -26,6 +26,7 @@
 
 <div align="center">
   <h3>MVP Projects</h3>
+  <hr>
 </div>
 
 <p align="center">
