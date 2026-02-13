@@ -16,13 +16,14 @@
     As an <b>Ackee Blockchain Solana Alum</b> , <b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet seamless <b>SmartContracts</b> as well as <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
   </p>
 </div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <div align="center">
   <h3>Languages and Toolkit</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,linux,arch,ubuntu,kali,windows" />
   </a>
-  <p><i>Specializing in</i></p>
+  <h3><i>Specializing in</i></h3>
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
