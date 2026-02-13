@@ -1,9 +1,6 @@
 <div align="center">
-
-
   <h1>SAMIR KUMAR</h1>
   <h3>Smart Contract Security Researcher | Blockchain Developer</h3>
-
   <p>
     <a href="https://git.io/typing-svg">
       <!-- Fixed 'A' visibility by increasing width to 900 -->
@@ -11,7 +8,6 @@
     </a>
   </p>
 </div>
-
 <div align="center">
   <p>
     I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and securing decentralized infrastructure.
@@ -20,7 +16,6 @@
     As an <b>Ackee Blockchain Solana Alum</b> , <b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet seamless <b>SmartContracts</b> as well as <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
   </p>
 </div>
-
 <div align="center">
   <h3>Languages and Toolkit</h3>
   <a href="https://skillicons.dev">
@@ -29,32 +24,45 @@
   <p><i>Specializing in Slither, Mythril, Foundry Invariants, and Anchor Security</i></p>
 </div>
 
-
 <div align="center">
-  <h3>Proof of Work</h3>
-  <p>
-    🛡️ <b>Web3 Security Playground (W3RS):</b> My open-source lab for reproducing Ethernaut & Ackee CTF vulnerabilities. <br />
-    🚀 <b>Ackee Solana CTF:</b> 100% completion of independent security challenges (PDA sharing, Signer validation). <br />
-    📈 <b>TryHackMe:</b> Internationally ranked Top 1% (Vulnerability Research & Threat Modeling).
-  </p>
+  <h3>MVP Projects</h3>
 </div>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+[![W3RS Part 1](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1)
+
+[![W3RS Part 2](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2)
+
+[![W3RS Part 3](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3)
+
+</td>
+<td width="50%" valign="top">
+
+[![W3RS Part 4](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=horizontal)](https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4)
+
+[![RIA R3-w1red-4rch](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal)](https://github.com/SAMIR897/RIA_R3-w1red-4rch)
+
+[![Linux Tool](https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tool&mode=dark&style=horizontal)](https://github.com/SAMIR897/My-linux-tool)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <a href="https://linkedin.com/in/samir-k-0874b9243" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Your_Twitter_Handle" target="_blank">
+  <a href="https://x.com/SamirKumar36741" target="_blank">
     <img src="https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:samir02nagwan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
 <br />
-
-
 <div align="center">
   <br />
 </div>
