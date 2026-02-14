@@ -26,6 +26,14 @@
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hardhat.png" alt="Hardhat" height="40"/><br/>
+        <sub><b>Hardhat</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Truffle.png" alt="Truffle" height="40"/><br/>
+        <sub><b>Truffle</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/><br/>
         <sub><b>Slither</b></sub>
       </td>
