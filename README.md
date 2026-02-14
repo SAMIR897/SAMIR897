@@ -44,6 +44,19 @@
           <sub><b>Remix IDE</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+  <a href="https://github.com/protofire/solhint" target="_blank">
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Solhint.png" alt="Solhint" height="40"/>
+  </a><br/>
+  <sub><b>Solhint</b></sub>
+</td>
+
+<td align="center" style="border: none; padding: 10px;">
+  <a href="https://github.com/Cyfrin/aderyn" target="_blank">
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/__aderyn.png" alt="Aderyn" height="40"/>
+  </a><br/>
+  <sub><b>Aderyn</b></sub>
+</td>
+      <td align="center" style="border: none; padding: 10px;">
         <a src="https://github.com/crytic/slither" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/><br/>
         </a>
@@ -61,6 +74,19 @@
         </a>
         <sub><b>Foundry Invariants</b></sub>
       </td>
+      <td align="center" style="border: none; padding: 10px;">
+  <a href="https://chain.link/" target="_blank">
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/chainlink.png" alt="Chainlink" height="40"/>
+  </a><br/>
+  <sub><b>Chainlink</b></sub>
+</td>
+
+<td align="center" style="border: none; padding: 10px;">
+  <a href="https://ipfs.tech/" target="_blank">
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/IPFS.png" alt="IPFS" height="40"/>
+  </a><br/>
+  <sub><b>IPFS</b></sub>
+</td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://www.anchor-lang.com/" target="_blank">
         <img src="https://github.com/SAMIR897/SAMIR897/blob/main/ANchor.png" alt="Anchor" height="40"/><br/>
