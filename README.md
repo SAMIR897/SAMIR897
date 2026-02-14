@@ -22,24 +22,68 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,linux,arch,ubuntu,kali,windows" />
   </a>
-  <p><i>Specializing in</i></p>
+  <h3><i>Specializing in</i></h3>
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/><br/>
+        <a href="https://hardhat.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hardhat.png" alt="Hardhat" height="40"/>
+        </a><br/>
+        <sub><b>Hardhat</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://trufflesuite.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Truffle.png" alt="Truffle" height="40"/>
+        </a><br/>
+        <sub><b>Truffle</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/protofire/solhint" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Solhint.png" alt="Solhint" height="40"/>
+        </a><br/>
+        <sub><b>Solhint</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/Cyfrin/aderyn" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/aderyn.png" alt="Aderyn" height="40"/>
+        </a><br/>
+        <sub><b>Aderyn</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/crytic/slither" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/>
+        </a><br/>
         <sub><b>Slither</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40"/><br/>
+        <a href="https://github.com/ConsenSysDiligence/mythril" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40"/>
+        </a><br/>
         <sub><b>Mythril</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40"/><br/>
+        <a href="https://www.getfoundry.sh/" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40"/>
+        </a><br/>
         <sub><b>Foundry Invariants</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/><br/>
+        <a href="https://www.anchor-lang.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/>
+        </a><br/>
         <sub><b>Anchor Security</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/Ackee-Blockchain/trident" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" height="40"/>
+        </a><br/>
+        <sub><b>Trident</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/reastyn/trdelnik" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trdelnik.png" alt="Trdelnik" height="40"/>
+        </a><br/>
+        <sub><b>Trdelnik</b></sub>
       </td>
     </tr>
   </table>
