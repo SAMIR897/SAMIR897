@@ -52,7 +52,7 @@
 
 <td align="center" style="border: none; padding: 10px;">
   <a href="https://github.com/Cyfrin/aderyn" target="_blank">
-    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/__aderyn.png" alt="Aderyn" height="40"/>
+    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/aderyn.png" alt="Aderyn" height="40"/>
   </a><br/>
   <sub><b>Aderyn</b></sub>
 </td>
