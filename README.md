@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and securing decentralized infrastructure.
+    I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and Develop securing decentralized infrastructure.
   </p>
     <p>
     As an <b>Ackee Blockchain Solana Alum</b>,<b>Alchemy University Alum</b>,<b>HTB Elite hacker</b>,<b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet, seamless <b>SmartContracts</b> , <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors, on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
