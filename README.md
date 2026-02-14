@@ -93,13 +93,13 @@
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://portswigger.net/burp" target="_blank">
-          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/BurpSuite.jpg" alt="BurpSuite" height="40"/>
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/BurpSuite.png" alt="BurpSuite" height="40"/>
         </a><br/>
         <sub><b>BurpSuite</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://www.kali.org/tools/hydra/" target="_blank">
-          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hydra.jpg" alt="Hydra" height="40"/>
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hydra.png" alt="Hydra" height="40"/>
         </a><br/>
         <sub><b>Hydra</b></sub>
       </td>
