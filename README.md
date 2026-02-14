@@ -127,13 +127,9 @@
         </a><br/>
         <sub><b>Nuclei</b></sub>
       </td>
-     
     </tr>
   </table>
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
 <div align="center">
   <h3>MVP Projects</h3>
 </div>
