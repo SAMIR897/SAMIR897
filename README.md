@@ -41,6 +41,10 @@
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/><br/>
         <sub><b>Anchor Security</b></sub>
       </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" height="40"/><br/>
+        <sub><b>Trident</b></sub>
+      </td>
     </tr>
   </table>
 </div>
