@@ -71,7 +71,7 @@
         <a href="https://www.anchor-lang.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/>
         </a><br/>
-        <sub><b>Anchor Security</b></sub>
+        <sub><b>Anchor</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://github.com/Ackee-Blockchain/trident" target="_blank">
@@ -98,13 +98,13 @@
         <sub><b>BurpSuite</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
+        <a href="https://www.kali.org/tools/hydra/" target="_blank">
           <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hydra.jpg" alt="Hydra" height="40"/>
         </a><br/>
         <sub><b>Hydra</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://github.com/ffuf/ffuf" target="_blank">
+        <a href="https://www.kali.org/tools/ffuf/" target="_blank">
           <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ffuf.png" alt="ffuf" height="40"/>
         </a><br/>
         <sub><b>ffuf</b></sub>
