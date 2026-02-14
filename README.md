@@ -41,7 +41,7 @@
           <a href="https://remix.ethereum.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Remix_IDE.png" alt="Remix_IDE" height="40"/><br/>
           </a>
-          <sub><b>Remix IDE</b></sub>
+          <sub><b>RemixIDE</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
   <a href="https://github.com/protofire/solhint" target="_blank">
