@@ -33,6 +33,10 @@
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Truffle.png" alt="Truffle" height="40"/><br/>
         <sub><b>Truffle</b></sub>
       </td>
+        <td align="center" style="border: none; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Remix_IDE.png" alt="Remix_IDE" height="40"/><br/>
+        <sub><b>Remix IDE</b></sub>
+      </td>
       <td align="center" style="border: none; padding: 10px;">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/><br/>
         <sub><b>Slither</b></sub>
@@ -47,7 +51,7 @@
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/><br/>
-        <sub><b>Anchor Security</b></sub>
+        <sub><b>Anchor</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" height="40"/><br/>
