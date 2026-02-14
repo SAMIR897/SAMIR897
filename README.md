@@ -10,10 +10,10 @@
 
 <div align="center">
   <p>
-    I am a <b>Security-First Blockchain Engineer</b> dedicated to Develop secure  decentralized infrastructure.
+    I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and securing decentralized infrastructure.
   </p>
   <p>
-    As an <b>Ackee Blockchain Solana Alum</b>,<b>Alchemy University Alum</b>,<b>HTB Elite hacker</b>,<b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet, seamless <b>SmartContracts</b> , <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors, on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
+    As an <b>Ackee Blockchain Solana Alum</b> , <b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between protocol development and offensive security. I specialize in Developing  complex yet neet seamless <b>SmartContracts</b> as well as <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
   </p>
 </div>
 
@@ -22,74 +22,72 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,linux,arch,ubuntu,kali,windows" />
   </a>
-  <h3><i>Specializing in</i></h3>
+  <p><i>Specializing in</i></p>
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://hardhat.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hardhat.png" alt="Hardhat" height="40"/><br/>
-        </a>
-        <sub><b>Hardhat</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://trufflesuite.com/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Truffle.png" alt="Truffle" height="40"/><br/>
-        </a>
-          <sub><b>Truffle</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-  <a href="https://github.com/protofire/solhint" target="_blank">
-    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Solhint.png" alt="Solhint" height="40"/>
-  </a><br/>
-  <sub><b>Solhint</b></sub>
-</td>
-
-<td align="center" style="border: none; padding: 10px;">
-  <a href="https://github.com/Cyfrin/aderyn" target="_blank">
-    <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/aderyn.png" alt="Aderyn" height="40"/>
-  </a><br/>
-  <sub><b>Aderyn</b></sub>
-</td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a src="https://github.com/crytic/slither" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/><br/>
-        </a>
         <sub><b>Slither</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://github.com/ConsenSysDiligence/mythril" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40"/><br/>
-        </a>
         <sub><b>Mythril</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.getfoundry.sh/" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40"/><br/>
-        </a>
         <sub><b>Foundry Invariants</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.anchor-lang.com/" target="_blank">
-        <img src="https://github.com/SAMIR897/SAMIR897/blob/main/ANchor.png" alt="Anchor" height="40"/><br/>
-        </a>
-        <sub><b>Anchor</b></sub>
+        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/><br/>
+        <sub><b>Anchor Security</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <h3><i>General purposed Pen-Test Tools</i></h3>
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://portswigger.net/burp" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/BurpSuite.jpg" alt="BurpSuite" height="40"/>
+        </a><br/>
+        <sub><b>BurpSuite</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://github.com/Ackee-Blockchain/trident" target="_blank">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" height="40"/><br/>
-        </a>
-        <sub><b>Trident</b></sub>
+        <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hydra.jpg" alt="Hydra" height="40"/>
+        </a><br/>
+        <sub><b>Hydra</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://github.com/reastyn/trdelnik" target="_blank">
-        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trdelnik.png" alt="Trdelnik" height="40"/><br/>
-        </a>
-        <sub><b>Trdelnik</b></sub>
+        <a href="https://github.com/ffuf/ffuf" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ffuf.png" alt="ffuf" height="40"/>
+        </a><br/>
+        <sub><b>ffuf</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://www.kali.org/tools/hashcat/" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/hashcat.png" alt="hashcat" height="40"/>
+        </a><br/>
+        <sub><b>Hashcat</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/projectdiscovery/nuclei" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/nuclei-logo.svg" alt="Nuclei" height="40"/>
+        </a><br/>
+        <sub><b>Nuclei</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/SAMIR897/Rust_Subdomain_tool/" target="_blank">
+          <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Rust%20Subdomain%20Tool.png" alt="RST" height="40"/>
+        </a><br/>
+        <sub><b>RST</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <div align="center">
   <h3>MVP Projects</h3>
