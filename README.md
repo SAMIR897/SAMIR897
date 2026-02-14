@@ -26,7 +26,9 @@
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://hardhat.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hardhat.png" alt="Hardhat" height="40"/><br/>
+        </a>
         <sub><b>Hardhat</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
@@ -36,31 +38,45 @@
           <sub><b>Truffle</b></sub>
       </td>
         <td align="center" style="border: none; padding: 10px;">
+          <a href="https://remix.ethereum.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Remix_IDE.png" alt="Remix_IDE" height="40"/><br/>
-        <sub><b>Remix IDE</b></sub>
+          </a>
+          <sub><b>Remix IDE</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a src="https://github.com/crytic/slither" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/><br/>
+        </a>
         <sub><b>Slither</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/ConsenSysDiligence/mythril" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40"/><br/>
+        </a>
         <sub><b>Mythril</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://www.getfoundry.sh/" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40"/><br/>
+        </a>
         <sub><b>Foundry Invariants</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://www.anchor-lang.com/" target="_blank"
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/><br/>
+        </a>
         <sub><b>Anchor</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/Ackee-Blockchain/trident" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" height="40"/><br/>
+        </a>
         <sub><b>Trident</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://github.com/reastyn/trdelnik" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trdelnik.png" alt="Trdelnik" height="40"/><br/>
+        </a>
         <sub><b>Trdelnik</b></sub>
       </td>
     </tr>
