@@ -30,8 +30,10 @@
         <sub><b>Hardhat</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://trufflesuite.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Truffle.png" alt="Truffle" height="40"/><br/>
         <sub><b>Truffle</b></sub>
+        </a>
       </td>
         <td align="center" style="border: none; padding: 10px;">
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Remix_IDE.png" alt="Remix_IDE" height="40"/><br/>
