@@ -62,7 +62,7 @@
         <sub><b>Foundry Invariants</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.anchor-lang.com/" target="_blank"
+        <a href="https://www.anchor-lang.com/" target="_blank">
         <img src="https://github.com/SAMIR897/SAMIR897/blob/main/ANchor.png" alt="Anchor" height="40"/><br/>
         </a>
         <sub><b>Anchor</b></sub>
