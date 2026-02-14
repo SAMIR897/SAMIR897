@@ -45,6 +45,10 @@
         <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" height="40"/><br/>
         <sub><b>Trident</b></sub>
       </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trdelnik.png" alt="Trdelnik" height="40"/><br/>
+        <sub><b>Trdelnik</b></sub>
+      </td>
     </tr>
   </table>
 </div>
