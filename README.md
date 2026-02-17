@@ -150,7 +150,7 @@
 
 <p align="center">
   <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=light&style=horizontal" alt="W3RS Part 3" width="49%"/>
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=light&style=vertical" alt="W3RS Part 3" width="49%"/>
   </a>
   <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4">
     <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=horizontal" alt="W3RS Part 4" width="49%"/>
