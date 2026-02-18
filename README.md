@@ -19,6 +19,7 @@
 
 <div align="center">
   <h3>Languages and Toolkit</h3>
+  <hr>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,linux,arch,ubuntu,kali,windows" />
   </a>
@@ -89,7 +90,7 @@
   </table>
   
   <h3><i>General purposed Pen-Test Tools</i></h3>
-  <table align="center" style="border: none;">
+  <hr><table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://portswigger.net/burp" target="_blank">
@@ -131,7 +132,7 @@
   </table>
 </div>
 <div align="center">
-  <h3>MVP Projects</h3>
+  <h3>MVP Projects</h3><hr>
 </div>
 
 <p align="center">
