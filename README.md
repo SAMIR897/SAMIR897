@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=2000&pause=5000&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=SAMIR+KUMAR" alt="SAMIR KUMAR" /></h1>
-  <h3>Smart Contract Security Researcher | Blockchain Developer</h3>
+  <h3><b>Smart Contract Security Researcher | Blockchain Developer</b></h3>
   <p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=900&lines=Securing+High-Stakes+Protocols;BUG+Bounty+Hunter;Solana+%26+EVM+Vulnerability+Researcher;Smart+Contract+Developer;Auditing+Rust%2C+Anchor+%26+Solidity+SmartContracts" alt="Typing SVG" />
