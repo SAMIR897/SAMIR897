@@ -21,7 +21,7 @@
   <h3>Languages and Toolkit</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,linux,arch,ubuntu,kali,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,arch,ubuntu,kali,windows,apple" />
   </a>
   <h3><i>Specializing in</i></h3>
   <table align="center" style="border: none;">
