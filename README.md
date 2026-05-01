@@ -134,10 +134,9 @@
 
 <br/>
 <div align="center">
+  <div align="center">
   <h3>GitHub Contributions</h3>
-  <a href="https://gitcity.natrajx.in/SAMIR897" target="_blank">
-    <img src="https://gitcity.natrajx.in/api/svg?u=SAMIR897&theme=matrix" alt="GitCity Contribution Graph" />
-  </a>
+  <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/MyGithubCity.png" alt="3D GitHub City" width="800" />
 </div>
 <br/>
 
