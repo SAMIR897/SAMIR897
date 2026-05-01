@@ -134,12 +134,14 @@
 <br/>
 
 <!-- ==================== LIVE GITHUB STATS ==================== -->
+<!-- ==================== 3D CONTRIBUTION CITY ==================== -->
 <div align="center">
-  <h2>🔥 GitHub Contribution Streak</h2>
-  <a href="https://github.com/SAMIR897">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIR897&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-  </a>
+  <h2>🏙️ GitHub City — My Contribution Skyline</h2>
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
+  <br/>
+  <sub><i>Generated automatically. Every building is a commit! 🚀</i></sub>
 </div>
+<!-- ============================================================= -->
 <!-- ============================================================= -->
 
 <br/>
