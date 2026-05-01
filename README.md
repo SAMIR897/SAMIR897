@@ -133,16 +133,24 @@
 
 <br/>
 
-<!-- ==================== 3D CONTRIBUTION CITY ==================== -->
+<!-- ==================== LIVE GITHUB STATS ==================== -->
 <div align="center">
-  <h2>🏙️ GitHub City — My Contribution Skyline</h2>
+  <h2>⚡ Live Hacker Stats</h2>
   
-  <a href="https://git-city.com/?username=SAMIR897" target="_blank">
-    <img src="image_7586fa.png" width="100%" alt="Interactive GitCity Skyline"/>
-  </a>
-  
-  <br/>
-  <sub><i>Click the city to view the interactive 3D map. Every building is a commit! 🚀</i></sub>
+  <p align="center">
+    <a href="https://github.com/SAMIR897">
+      <img src="https://github-readme-stats.vercel.app/api?username=SAMIR897&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+    </a>
+    <a href="https://github.com/SAMIR897">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIR897&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/SAMIR897">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMIR897&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" width="100%" alt="Live Activity Graph"/>
+    </a>
+  </p>
 </div>
 <!-- ============================================================= -->
 
