@@ -133,16 +133,26 @@
 
 <br/>
 
-<!-- ==================== LIVE GITHUB STATS ==================== -->
-<!-- ==================== 3D CONTRIBUTION CITY ==================== -->
+<!-- ==================== LIVE METRICS & ACHIEVEMENTS ==================== -->
 <div align="center">
-  <h2>🏙️ GitHub City — My Contribution Skyline</h2>
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
-  <br/>
-  <sub><i>Generated automatically. Every building is a commit! 🚀</i></sub>
+  <h2>🏆 Hack & Audit Achievements</h2>
+  <a href="https://github.com/SAMIR897">
+    <img src="https://github-profile-trophy.vercel.app/?username=SAMIR897&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+  <br/><br/>
+
+  <h2>🔥 Contribution Streak</h2>
+  <a href="https://github.com/SAMIR897">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMIR897&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  </a>
+  <br/><br/>
+
+  <h2>📊 Live Activity Matrix</h2>
+  <a href="https://github.com/SAMIR897">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMIR897&bg_color=1a1b27&color=00D9FF&line=4AF626&point=16161e&area=true&hide_border=true" width="100%" alt="Live Activity Graph"/>
+  </a>
 </div>
-<!-- ============================================================= -->
-<!-- ============================================================= -->
+<!-- =================================================================== -->
 
 <br/>
 
