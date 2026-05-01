@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=900&lines=Securing+High-Stakes+Protocols;BUG+Bounty+Hunter;Solana+%26+EVM+Vulnerability+Researcher;Smart+Contract+Developer;Auditing+Rust%2C+Anchor+%26+Solidity+SmartContracts" alt="Typing SVG" />
     </a>
- </p>
+  </p>
 </div>
 
 <div align="center">
@@ -131,6 +131,16 @@
     </tr>
   </table>
 </div>
+
+<br/>
+<div align="center">
+  <h3>GitHub Contributions</h3>
+  <a href="https://gitcity.natrajx.in/SAMIR897" target="_blank">
+    <img src="https://gitcity.natrajx.in/api/svg?u=SAMIR897&theme=matrix" alt="GitCity Contribution Graph" />
+  </a>
+</div>
+<br/>
+
 <div align="center">
   <h3>MVP Projects</h3>
 </div>
@@ -176,5 +186,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <i>My-linux-tools</i>
 </p>
-
-<br />
