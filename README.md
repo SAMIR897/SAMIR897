@@ -5,21 +5,20 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=900&lines=Securing+High-Stakes+Protocols;BUG+Bounty+Hunter;Solana+%26+EVM+Vulnerability+Researcher;Smart+Contract+Developer;Auditing+Rust%2C+Anchor+%26+Solidity+SmartContracts" alt="Typing SVG" />
     </a>
- </p>
+  </p>
 </div>
 
 <div align="center">
   <p>
     I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and Develop securing decentralized infrastructure.
   </p>
-    <p>
-    As an <b>Ackee Blockchain Solana Alum</b>,<b>Alchemy University Alum</b>,<b>HTB Elite hacker</b>,<b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between development and offensive security. I specialize in Developing  complex, neet, seamless <b>SmartContracts</b> , <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors, on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
+  <p>
+    As an <b>Ackee Blockchain Solana Alum</b>,<b>Alchemy University Alum</b>,<b>HTB Elite hacker</b>,<b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between development and offensive security. I specialize in Developing complex, neet, seamless <b>SmartContracts</b>, <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors, on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
   </p>
 </div>
 <hr>
 <div align="center">
   <h3>Languages and Toolkit</h3>
-  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,cpp,bash,nextjs,nodejs,github,docker,arch,ubuntu,kali,windows,apple" />
   </a>
@@ -88,7 +87,7 @@
       </td>
     </tr>
   </table>
-  
+
   <h3><i>General purposed Pen-Test Tools</i></h3>
   <table align="center" style="border: none;">
     <tr style="border: none;">
@@ -110,7 +109,7 @@
         </a><br/>
         <sub><b>ffuf</b></sub>
       </td>
-       <td align="center" style="border: none; padding: 10px;">
+      <td align="center" style="border: none; padding: 10px;">
         <a href="https://github.com/SAMIR897/Rust_Subdomain_tool/" target="_blank">
           <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Rust%20Subdomain%20Tool.png" alt="RST" height="40"/>
         </a><br/>
@@ -134,14 +133,45 @@
 
 <br/>
 
-
+<!-- ==================== 3D CONTRIBUTION CITY ==================== -->
 <div align="center">
   <h2>🏙️ GitHub City — My Contribution Skyline</h2>
-  <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/MyGithubCity.png" alt="3D GitHub City" width="800" />
+  <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
   <br/>
   <sub><i>Every building is a commit. The taller the tower, the harder the grind. 🚀</i></sub>
 </div>
 
+<!--
+=================================================================
+  AUTO-UPDATE SETUP (one time only):
+  Create this file in your repo:
+  .github/workflows/3d-contrib.yml
+  with this content:
+
+  name: GitHub-Profile-3D-Contrib
+  on:
+    schedule:
+      - cron: "0 18 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      name: generate-github-profile-3d-contrib
+      steps:
+        - uses: actions/checkout@v3
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: SAMIR897
+        - run: |
+            git config user.email "action@github.com"
+            git config user.name "GitHub Action"
+            git add -A
+            git commit -m "generated" || exit 0
+            git push
+=================================================================
+-->
+<!-- ============================================================= -->
 
 <br/>
 
