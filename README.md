@@ -133,10 +133,16 @@
 </div>
 
 <br/>
+
+
 <div align="center">
-  <h3>GitHub Contributions</h3>
+  <h2>🏙️ GitHub City — My Contribution Skyline</h2>
   <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/MyGithubCity.png" alt="3D GitHub City" width="800" />
+  <br/>
+  <sub><i>Every building is a commit. The taller the tower, the harder the grind. 🚀</i></sub>
 </div>
+
+
 <br/>
 
 <div align="center">
