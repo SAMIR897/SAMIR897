@@ -136,41 +136,10 @@
 <!-- ==================== 3D CONTRIBUTION CITY ==================== -->
 <div align="center">
   <h2>🏙️ GitHub City — My Contribution Skyline</h2>
-  <img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=SAMIR897&theme=tokyo-night" width="100%"/>
   <br/>
   <sub><i>Every building is a commit. The taller the tower, the harder the grind. 🚀</i></sub>
 </div>
-
-<!--
-=================================================================
-  AUTO-UPDATE SETUP (one time only):
-  Create this file in your repo:
-  .github/workflows/3d-contrib.yml
-  with this content:
-
-  name: GitHub-Profile-3D-Contrib
-  on:
-    schedule:
-      - cron: "0 18 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      name: generate-github-profile-3d-contrib
-      steps:
-        - uses: actions/checkout@v3
-        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            USERNAME: SAMIR897
-        - run: |
-            git config user.email "action@github.com"
-            git config user.name "GitHub Action"
-            git add -A
-            git commit -m "generated" || exit 0
-            git push
-=================================================================
--->
 <!-- ============================================================= -->
 
 <br/>
