@@ -13,7 +13,7 @@
     I am a <b>Security-First Blockchain Engineer</b> dedicated to identifying logic flaws and Develop securing decentralized infrastructure.
   </p>
   <p>
-    As an <b>Ackee Blockchain Solana Alum</b>,<b>Alchemy University Alum</b>,<b>HTB Elite hacker</b>,<b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between development and offensive security. I specialize in Developing complex, neet, seamless <b>SmartContracts</b>, <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors, on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
+    As an <b>Ackee Blockchain Solana Alum</b>, <b>Alchemy University Alum</b>, <b>HTB Elite hacker</b>, <b>Global Top 1% TryHackMe Researcher</b> and <b>Bug-Bounty Hunter</b>, I bridge the gap between development and offensive security. I specialize in Developing complex, neet, seamless <b>SmartContracts</b>, <b>Full-Stack DAAp</b> as well as auditing vulnerabilities on Solana and EVM exploit vectors, on SWC<a href="https://swcregistry.io/">(Smart Contract Weakness Classification)</a> standards.
   </p>
 </div>
 <hr>
@@ -136,9 +136,13 @@
 <!-- ==================== 3D CONTRIBUTION CITY ==================== -->
 <div align="center">
   <h2>🏙️ GitHub City — My Contribution Skyline</h2>
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=SAMIR897&theme=tokyo-night" width="100%"/>
+  
+  <a href="https://git-city.com/?username=SAMIR897" target="_blank">
+    <img src="image_7586fa.png" width="100%" alt="Interactive GitCity Skyline"/>
+  </a>
+  
   <br/>
-  <sub><i>Every building is a commit. The taller the tower, the harder the grind. 🚀</i></sub>
+  <sub><i>Click the city to view the interactive 3D map. Every building is a commit! 🚀</i></sub>
 </div>
 <!-- ============================================================= -->
 
