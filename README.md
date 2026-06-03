@@ -171,7 +171,6 @@
     <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal" alt="RIA R3-w1red-4rch" width="49%"/>
   </a>
 <p align="center">
- 
   <a href="https://github.com/SAMIR897/My-linux-tool">
     <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tool&mode=light&style=horizontal" alt="Linux Tool" width="49%"/>
   </a>
