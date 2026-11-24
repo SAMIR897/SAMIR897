@@ -85,6 +85,14 @@
         </a><br/>
         <sub><b>Trdelnik</b></sub>
       </td>
+      <td align="center"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" height="40"/><br/><sub><b>Slither</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/aderyn.png" height="40"/><br/><sub><b>Aderyn</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" height="40"/><br/><sub><b>Mythril</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" height="40"/><br/><sub><b>Foundry</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/certora.png" height="40"/><br/><sub><b>Certora</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tenderly.png" height="40"/><br/><sub><b>Tenderly</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/etherscan.jpg" height="40"/><br/><sub><b>Etherscan</b></sub></td>
+ 
     </tr>
   </table>
 
