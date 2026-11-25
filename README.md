@@ -63,61 +63,50 @@
 <hr>
 
 <div align="center">
-
-### Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=dark&style=vertical" alt="W3RS Part 1" width="100%"/>
-      </a>
-      <br/><b>W3RS Part 1: The Legendary Legacy</b><br/>
-      <sub>Smart contract auditing practice ground for Solana and Ethereum, built around SWC vulnerabilities.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2&mode=dark&style=vertical" alt="W3RS Part 2" width="100%"/>
-      </a>
-      <br/><b>W3RS Part 2: Commando &amp; Shinobi Operations</b><br/>
-      <sub>New challenges and missions continuing the series.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=dark&style=vertical" alt="W3RS Part 3" width="100%"/>
-      </a>
-      <br/><b>W3RS Part 3: The Shadow Protocol</b><br/>
-      <sub>New blockchain challenges with a stealth-infiltration storyline.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=vertical" alt="W3RS Part 4" width="100%"/>
-      </a>
-      <br/><b>W3RS Part 4: Joint Operation</b><br/>
-      <sub>The finale: everything compiled into one offline Web3 vulnerability practice ground.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/SAMIR897/RIA_R3-w1red-4rch">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal" alt="RIA R3-w1red-4rch" width="100%"/>
-      </a>
-      <br/><b>RIA R3-w1red-4rch</b><br/>
-      <sub>Arch-based Linux distro for Web3 pentesting and general-purpose pentesting (arm64 and x86).</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/SAMIR897/My-linux-tool">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tool&mode=dark&style=horizontal" alt="My-linux-tool" width="100%"/>
-      </a>
-      <br/><b>My-linux-tool</b><br/>
-      <sub>Penetration testing tools I've built, mostly in Python, Bash and Rust.</sub>
-    </td>
-  </tr>
-</table>
-
+  <h3>MVP Projects</h3>
 </div>
+
+<p align="center">
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-1&mode=dark&style=vertical" alt="W3RS Part 1" width="49%"/>
+  </a>
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-2&mode=light&style=vertical" alt="W3RS Part 2" width="49%"/>
+  </a>
+</p>
+<p align="center">
+  <i>W3RS-Web3-Research-Security-Playground Part 1</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <i>W3RS-Web3-Research-Security-Playground Part 2</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-3&mode=light&style=vertical" alt="W3RS Part 3" width="49%"/>
+  </a>
+  <a href="https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/W3RS-Web3-Research-Security-Playground_part-4&mode=dark&style=vertical" alt="W3RS Part 4" width="49%"/>
+  </a>
+</p>
+<p align="center">
+  <i>W3RS-Web3-Research-Security-Playground Part 3</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <i>W3RS-Web3-Research-Security-Playground Part 4</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SAMIR897/RIA_R3-w1red-4rch">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/RIA_R3-w1red-4rch&mode=dark&style=horizontal" alt="RIA R3-w1red-4rch" width="49%"/>
+  </a>
+  <a href="https://github.com/SAMIR897/My-linux-tools">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/My-linux-tools&mode=light&style=horizontal" alt="My-linux-tools" width="49%"/>
+  </a>
+</p>
+<p align="center">
+  <i>RIA R3-w1red-4rch</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <i>My-linux-tools</i>
+</p>
 
 <!--
 Optional sections to add later (remove these comment markers when you have real content):
