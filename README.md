@@ -24,7 +24,7 @@
 ### Languages & Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,bash,nextjs,nodejs,docker,github,kali,mac,arch" alt="Languages and stack" />
+  <img src="https://skillicons.dev/icons?i=rust,solidity,py,ts,bash,nextjs,nodejs,docker,github,kali,apple,arch" alt="Languages and stack" />
 </a>
 
 ### Smart Contract Security Toolkit
