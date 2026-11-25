@@ -29,35 +29,48 @@
 
 ### Smart Contract Security Toolkit
 
-<!-- Inline images wrap automatically: more rows on narrow screens, fewer on wide ones. -->
-<a href="https://hardhat.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hardhat.png" alt="Hardhat" title="Hardhat" height="48"/></a>
-<a href="https://trufflesuite.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Truffle.png" alt="Truffle" title="Truffle" height="48"/></a>
-<a href="https://www.getfoundry.sh/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" title="Foundry (fuzzing & invariants)" height="48"/></a>
-<a href="https://www.anchor-lang.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" title="Anchor" height="48"/></a>
-<a href="https://github.com/Ackee-Blockchain/trident"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" title="Trident (Solana fuzzing)" height="48"/></a>
-<a href="https://github.com/reastyn/trdelnik"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trdelnik.png" alt="Trdelnik" title="Trdelnik (Solana fuzzing)" height="48"/></a>
-<a href="https://github.com/crytic/slither"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" title="Slither" height="48"/></a>
-<a href="https://github.com/Cyfrin/aderyn"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/aderyn.png" alt="Aderyn" title="Aderyn" height="48"/></a>
-<a href="https://github.com/ConsenSysDiligence/mythril"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" title="Mythril" height="48"/></a>
-<a href="https://github.com/protofire/solhint"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Solhint.png" alt="Solhint" title="Solhint" height="48"/></a>
-<a href="https://www.certora.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/certora.png" alt="Certora" title="Certora (formal verification)" height="48"/></a>
-<a href="https://tenderly.co/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tenderly.png" alt="Tenderly" title="Tenderly" height="48"/></a>
-<a href="https://etherscan.io/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/etherscan.jpg" alt="Etherscan" title="Etherscan" height="48"/></a>
-<a href="https://chain.link/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/chainlink.png" alt="Chainlink" title="Chainlink" height="48"/></a>
-<a href="https://remix.ethereum.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Remix_IDE.png" alt="Remix IDE" title="Remix IDE" height="48"/></a>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><a href="https://hardhat.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hardhat.png" alt="Hardhat" height="40"/></a><br/><sub><b>Hardhat</b></sub></td>
+    <td align="center" valign="middle"><a href="https://trufflesuite.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Truffle.png" alt="Truffle" height="40"/></a><br/><sub><b>Truffle</b></sub></td>
+    <td align="center" valign="middle"><a href="https://www.getfoundry.sh/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/foundry.png" alt="Foundry" height="40"/></a><br/><sub><b>Foundry</b></sub></td>
+    <td align="center" valign="middle"><a href="https://www.anchor-lang.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ANchor.png" alt="Anchor" height="40"/></a><br/><sub><b>Anchor</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/Ackee-Blockchain/trident"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trident.png" alt="Trident" height="40"/></a><br/><sub><b>Trident</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/reastyn/trdelnik"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Trdelnik.png" alt="Trdelnik" height="40"/></a><br/><sub><b>Trdelnik</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/crytic/slither"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/slither.png" alt="Slither" height="40"/></a><br/><sub><b>Slither</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/Cyfrin/aderyn"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/aderyn.png" alt="Aderyn" height="40"/></a><br/><sub><b>Aderyn</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/ConsenSysDiligence/mythril"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/mythril.png" alt="Mythril" height="40"/></a><br/><sub><b>Mythril</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/protofire/solhint"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Solhint.png" alt="Solhint" height="40"/></a><br/><sub><b>Solhint</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://www.certora.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/certora.png" alt="Certora" height="40"/></a><br/><sub><b>Certora</b></sub></td>
+    <td align="center" valign="middle"><a href="https://tenderly.co/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tenderly.png" alt="Tenderly" height="40"/></a><br/><sub><b>Tenderly</b></sub></td>
+    <td align="center" valign="middle"><a href="https://etherscan.io/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/etherscan.jpg" alt="Etherscan" height="40"/></a><br/><sub><b>Etherscan</b></sub></td>
+    <td align="center" valign="middle"><a href="https://chain.link/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/chainlink.png" alt="Chainlink" height="40"/></a><br/><sub><b>Chainlink</b></sub></td>
+    <td align="center" valign="middle"><a href="https://remix.ethereum.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Remix_IDE.png" alt="Remix IDE" height="40"/></a><br/><sub><b>Remix IDE</b></sub></td>
+  </tr>
+</table>
 
 ### General-Purpose Pentesting Tools
 
-<a href="https://portswigger.net/burp"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/BurpSuite.png" alt="Burp Suite" title="Burp Suite" height="48"/></a>
-<a href="https://caido.io/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/caido-logo.svg" alt="Caido" title="Caido" height="48"/></a>
-<a href="https://www.kali.org/tools/ffuf/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ffuf.png" alt="ffuf" title="ffuf" height="48"/></a>
-<a href="https://sqlmap.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/sqlmap.png" alt="sqlmap" title="sqlmap" height="48"/></a>
-<a href="https://github.com/projectdiscovery/nuclei"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/nuclei-logo.svg" alt="Nuclei" title="Nuclei" height="48"/></a>
-<a href="https://github.com/projectdiscovery/subfinder"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/subfinder-logo.svg" alt="Subfinder" title="Subfinder" height="48"/></a>
-<a href="https://github.com/RustScan/RustScan"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/rustscan-logo.svg" alt="RustScan" title="RustScan" height="48"/></a>
-<a href="https://github.com/SAMIR897/Rust_Subdomain_tool/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Rust%20Subdomain%20Tool.png" alt="Rust Subdomain Tool" title="Rust Subdomain Tool (my own)" height="48"/></a>
-<a href="https://www.kali.org/tools/hydra/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hydra.png" alt="Hydra" title="Hydra" height="48"/></a>
-<a href="https://www.kali.org/tools/hashcat/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/hashcat.png" alt="Hashcat" title="Hashcat" height="48"/></a>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><a href="https://portswigger.net/burp"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/BurpSuite.png" alt="Burp Suite" height="40"/></a><br/><sub><b>Burp Suite</b></sub></td>
+    <td align="center" valign="middle"><a href="https://caido.io/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/caido-logo.svg" alt="Caido" height="40"/></a><br/><sub><b>Caido</b></sub></td>
+    <td align="center" valign="middle"><a href="https://www.kali.org/tools/ffuf/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/ffuf.png" alt="ffuf" height="40"/></a><br/><sub><b>ffuf</b></sub></td>
+    <td align="center" valign="middle"><a href="https://sqlmap.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/sqlmap.png" alt="sqlmap" height="40"/></a><br/><sub><b>sqlmap</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/projectdiscovery/nuclei"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/nuclei-logo.svg" alt="Nuclei" height="40"/></a><br/><sub><b>Nuclei</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://github.com/projectdiscovery/subfinder"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/subfinder-logo.svg" alt="Subfinder" height="40"/></a><br/><sub><b>Subfinder</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/RustScan/RustScan"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/rustscan-logo.svg" alt="RustScan" height="40"/></a><br/><sub><b>RustScan</b></sub></td>
+    <td align="center" valign="middle"><a href="https://github.com/SAMIR897/Rust_Subdomain_tool/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Rust%20Subdomain%20Tool.png" alt="RST" height="40"/></a><br/><sub><b>RST</b></sub></td>
+    <td align="center" valign="middle"><a href="https://www.kali.org/tools/hydra/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/Hydra.png" alt="Hydra" height="40"/></a><br/><sub><b>Hydra</b></sub></td>
+    <td align="center" valign="middle"><a href="https://www.kali.org/tools/hashcat/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/hashcat.png" alt="Hashcat" height="40"/></a><br/><sub><b>Hashcat</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -120,47 +133,17 @@
 
 </div>
 
-<div align="center">
-
-### Proof of Work
-
-| Repository | What's inside |
-|---|---|
-| [Web3Audits_Ethereum_Solana](https://github.com/SAMIR897/Web3Audits_Ethereum_Solana) | Smart contract auditing practice platforms and lab solutions, with a write-up for every challenge |
-| [CTFs_Capture_The_Flags](https://github.com/SAMIR897/CTFs_Capture_The_Flags) | Write-ups from HTB, THM, TCM, Hacking Hub, PicoCTF and similar platforms |
-| [Hackathons_Writeup](https://github.com/SAMIR897/Hackathons_Writeup) | Web3 hackathon projects, each with a detailed write-up |
-| [Blockchain_Projects](https://github.com/SAMIR897/Blockchain_Projects) | Full-stack Ethereum and Solana projects, deployed on testnet with live links |
-| [Rust_Projects](https://github.com/SAMIR897/Rust_Projects) | Native Rust projects, including CLI cybersecurity tools |
-| [Python_projects](https://github.com/SAMIR897/Python_projects) | Python projects, mostly Tkinter GUIs, plus cybersecurity tools |
-
-</div>
-
 <!--
-Add this when you have real bug bounty or contest results, then remove the comment markers:
-
-<div align="center">
+Optional sections to add later (remove these comment markers when you have real content):
 
 ### Selected Findings
-
 | Date | Platform / Protocol | Finding | Severity | Report |
 |------|---------------------|---------|----------|--------|
 | YYYY-MM | Code4rena / Sherlock / Cantina / Immunefi | One-line description | High / Med | [link](https://) |
 
-</div>
--->
-
-<div align="center">
-
 ### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-SAMIR897-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAMIR897)
-
-<!--
-Add your own, then remove the comment markers:
 [![Email](https://img.shields.io/badge/Email-you@example.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 [![X](https://img.shields.io/badge/X-@handle-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/handle)
 [![Telegram](https://img.shields.io/badge/Telegram-@handle-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/handle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samir_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/handle)
 -->
-
-</div>
