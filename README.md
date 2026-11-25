@@ -29,34 +29,34 @@
 
 ### Smart Contract Security Toolkit
 
-[![Hardhat](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hardhat-dark.svg#gh-dark-mode-only)![Hardhat](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hardhat-light.svg#gh-light-mode-only)](https://hardhat.org/)
-[![Truffle](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/truffle-dark.svg#gh-dark-mode-only)![Truffle](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/truffle-light.svg#gh-light-mode-only)](https://trufflesuite.com/)
-[![Foundry](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/foundry-dark.svg#gh-dark-mode-only)![Foundry](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/foundry-light.svg#gh-light-mode-only)](https://www.getfoundry.sh/)
-[![Anchor](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/anchor-dark.svg#gh-dark-mode-only)![Anchor](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/anchor-light.svg#gh-light-mode-only)](https://www.anchor-lang.com/)
-[![Trident](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/trident-dark.svg#gh-dark-mode-only)![Trident](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/trident-light.svg#gh-light-mode-only)](https://github.com/Ackee-Blockchain/trident)
-[![Trdelnik](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/trdelnik-dark.svg#gh-dark-mode-only)![Trdelnik](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/trdelnik-light.svg#gh-light-mode-only)](https://github.com/reastyn/trdelnik)
-[![Slither](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/slither-dark.svg#gh-dark-mode-only)![Slither](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/slither-light.svg#gh-light-mode-only)](https://github.com/crytic/slither)
-[![Aderyn](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/aderyn-dark.svg#gh-dark-mode-only)![Aderyn](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/aderyn-light.svg#gh-light-mode-only)](https://github.com/Cyfrin/aderyn)
-[![Mythril](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/mythril-dark.svg#gh-dark-mode-only)![Mythril](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/mythril-light.svg#gh-light-mode-only)](https://github.com/ConsenSysDiligence/mythril)
-[![Solhint](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/solhint-dark.svg#gh-dark-mode-only)![Solhint](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/solhint-light.svg#gh-light-mode-only)](https://github.com/protofire/solhint)
-[![Certora](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/certora-dark.svg#gh-dark-mode-only)![Certora](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/certora-light.svg#gh-light-mode-only)](https://www.certora.com/)
-[![Tenderly](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/tenderly-dark.svg#gh-dark-mode-only)![Tenderly](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/tenderly-light.svg#gh-light-mode-only)](https://tenderly.co/)
-[![Etherscan](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/etherscan-dark.svg#gh-dark-mode-only)![Etherscan](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/etherscan-light.svg#gh-light-mode-only)](https://etherscan.io/)
-[![Chainlink](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/chainlink-dark.svg#gh-dark-mode-only)![Chainlink](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/chainlink-light.svg#gh-light-mode-only)](https://chain.link/)
-[![Remix IDE](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/remix-ide-dark.svg#gh-dark-mode-only)![Remix IDE](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/remix-ide-light.svg#gh-light-mode-only)](https://remix.ethereum.org/)
+<a href="https://hardhat.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hardhat-dark.svg?v=5" alt="Hardhat" width="72" height="58"/></a>
+<a href="https://trufflesuite.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/truffle-dark.svg?v=5" alt="Truffle" width="72" height="58"/></a>
+<a href="https://www.getfoundry.sh/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/foundry-dark.svg?v=5" alt="Foundry" width="72" height="58"/></a>
+<a href="https://www.anchor-lang.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/anchor-dark.svg?v=5" alt="Anchor" width="72" height="58"/></a>
+<a href="https://github.com/Ackee-Blockchain/trident"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/trident-dark.svg?v=5" alt="Trident" width="72" height="58"/></a>
+<a href="https://github.com/reastyn/trdelnik"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/trdelnik-dark.svg?v=5" alt="Trdelnik" width="72" height="58"/></a>
+<a href="https://github.com/crytic/slither"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/slither-dark.svg?v=5" alt="Slither" width="72" height="58"/></a>
+<a href="https://github.com/Cyfrin/aderyn"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/aderyn-dark.svg?v=5" alt="Aderyn" width="72" height="58"/></a>
+<a href="https://github.com/ConsenSysDiligence/mythril"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/mythril-dark.svg?v=5" alt="Mythril" width="72" height="58"/></a>
+<a href="https://github.com/protofire/solhint"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/solhint-dark.svg?v=5" alt="Solhint" width="72" height="58"/></a>
+<a href="https://www.certora.com/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/certora-dark.svg?v=5" alt="Certora" width="72" height="58"/></a>
+<a href="https://tenderly.co/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/tenderly-dark.svg?v=5" alt="Tenderly" width="72" height="58"/></a>
+<a href="https://etherscan.io/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/etherscan-dark.svg?v=5" alt="Etherscan" width="72" height="58"/></a>
+<a href="https://chain.link/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/chainlink-dark.svg?v=5" alt="Chainlink" width="72" height="58"/></a>
+<a href="https://remix.ethereum.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/remix-ide-dark.svg?v=5" alt="Remix IDE" width="72" height="58"/></a>
 
 ### General-Purpose Pentesting Tools
 
-[![Burp Suite](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/burp-suite-dark.svg#gh-dark-mode-only)![Burp Suite](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/burp-suite-light.svg#gh-light-mode-only)](https://portswigger.net/burp)
-[![Caido](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/caido-dark.svg#gh-dark-mode-only)![Caido](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/caido-light.svg#gh-light-mode-only)](https://caido.io/)
-[![ffuf](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/ffuf-dark.svg#gh-dark-mode-only)![ffuf](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/ffuf-light.svg#gh-light-mode-only)](https://www.kali.org/tools/ffuf/)
-[![sqlmap](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/sqlmap-dark.svg#gh-dark-mode-only)![sqlmap](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/sqlmap-light.svg#gh-light-mode-only)](https://sqlmap.org/)
-[![Nuclei](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/nuclei-dark.svg#gh-dark-mode-only)![Nuclei](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/nuclei-light.svg#gh-light-mode-only)](https://github.com/projectdiscovery/nuclei)
-[![Subfinder](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/subfinder-dark.svg#gh-dark-mode-only)![Subfinder](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/subfinder-light.svg#gh-light-mode-only)](https://github.com/projectdiscovery/subfinder)
-[![RustScan](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/rustscan-dark.svg#gh-dark-mode-only)![RustScan](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/rustscan-light.svg#gh-light-mode-only)](https://github.com/RustScan/RustScan)
-[![RST](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/rst-dark.svg#gh-dark-mode-only)![RST](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/rst-light.svg#gh-light-mode-only)](https://github.com/SAMIR897/Rust_Subdomain_tool/)
-[![Hydra](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hydra-dark.svg#gh-dark-mode-only)![Hydra](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hydra-light.svg#gh-light-mode-only)](https://www.kali.org/tools/hydra/)
-[![Hashcat](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hashcat-dark.svg#gh-dark-mode-only)![Hashcat](https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hashcat-light.svg#gh-light-mode-only)](https://www.kali.org/tools/hashcat/)
+<a href="https://portswigger.net/burp"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/burp-suite-dark.svg?v=5" alt="Burp Suite" width="72" height="58"/></a>
+<a href="https://caido.io/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/caido-dark.svg?v=5" alt="Caido" width="72" height="58"/></a>
+<a href="https://www.kali.org/tools/ffuf/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/ffuf-dark.svg?v=5" alt="ffuf" width="72" height="58"/></a>
+<a href="https://sqlmap.org/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/sqlmap-dark.svg?v=5" alt="sqlmap" width="72" height="58"/></a>
+<a href="https://github.com/projectdiscovery/nuclei"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/nuclei-dark.svg?v=5" alt="Nuclei" width="72" height="58"/></a>
+<a href="https://github.com/projectdiscovery/subfinder"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/subfinder-dark.svg?v=5" alt="Subfinder" width="72" height="58"/></a>
+<a href="https://github.com/RustScan/RustScan"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/rustscan-dark.svg?v=5" alt="RustScan" width="72" height="58"/></a>
+<a href="https://github.com/SAMIR897/Rust_Subdomain_tool/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/rst-dark.svg?v=5" alt="RST" width="72" height="58"/></a>
+<a href="https://www.kali.org/tools/hydra/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hydra-dark.svg?v=5" alt="Hydra" width="72" height="58"/></a>
+<a href="https://www.kali.org/tools/hashcat/"><img src="https://raw.githubusercontent.com/SAMIR897/SAMIR897/main/tools/hashcat-dark.svg?v=5" alt="Hashcat" width="72" height="58"/></a>
 
 </div>
 
